@@ -10,6 +10,6 @@ We are given the root of a binary tree with unique values, and the values x and 
 
 Return true if and only if the nodes corresponding to the values x and y are cousins.
 
-###### 思路：
+###### 思路 （实现python3[dict_solutions](https://github.com/odcowl/LeetCode/blob/master/0993_Cousins_In_Binary_Tree/Dict_solutions.py))：
 
 用字典Dictionnaire来储存x和y出现的深度/层数及对应的parent，并判读x和y是否满足1.相同层数 2.parent互不相同 这两点条件。
