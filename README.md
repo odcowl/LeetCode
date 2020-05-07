@@ -12,7 +12,7 @@
 ### 目录
 | Num| Title                   |Difficulty|Solution|Tag|
 | ---| ---                     |---       |---     |---|
-|0000| Two Sum                 |Easy  |        |   |
+|0000| Two Sum                 |Easy  |[git](https://github.com/odcowl/LeetCode/tree/master/0000_Two_Sum)        |   |
 |0217| Contains Duplicate.     |Easy  |[git](https://github.com/odcowl/LeetCode/tree/master/0217_Contains_Duplicate)|   |
 |0219| Contains DuplicateII    |Easy  |        |   |
 |0220| Contains DuplicateIII.  |Medium|        |   |
