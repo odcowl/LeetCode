@@ -1,7 +1,5 @@
-# 000.Two Sum(Easy)
+# 0976.Largest Perimeter Triangle(Easy)
 
 > [Lien for LeetCode](https://leetcode.com/problems/largest-perimeter-triangle/)
 
-###### 思路 (实现为python3  [Solutions.py](https://github.com/odcowl/LeetCode/blob/master/0000_Two_Sum/Solutions.py))
-我们需要找到在给定list中，两个数的总和为target的index。利用字典的解法则是，若list的value不在dict中，则在dict中写入dict[value]=index。
-如果此时，我们的目标是找到target-value对应的value‘所在的index，此时利用字典就可以得到对应index。
+###### 思路 (实现为python3  [solutions.py](https://github.com/odcowl/LeetCode/blob/master/0976_Largest_Perimeter_Triangle/solution.py)
